@@ -1,9 +1,64 @@
-* {
+*{
     border: 1px solid grey;
     margin: 8px;
     padding: 5px;
 }
-
 p {
     font-size: 20px;
+}
+.p70{
+    width: 70%;
+}
+.p70jobbos{
+    width: 70%;
+    margin-left: auto;
+    margin-right: 0;
+}
+.p70kozep{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p50{
+    width: 50%;
+}
+.p50jobbos{
+    width: 50%;
+    margin-left: auto;
+    margin-right: 0;
+}
+.p50kozep{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.w50{
+    width: 50%;
+}
+.w70{
+    width: 70%;
+}
+.pjobbos{
+    margin-left: auto;
+    margin-right: 0;
+}
+.pkozep{
+    margin-left: auto;
+    margin-right: auto;
+}
+.psarok3 {
+    border-radius: 3px;
+}
+.psarok5 {
+    border-radius: 5px;
+}
+.bkek {
+    border-color: blue;
+}
+.bpiros {
+    border-color: red;
+}
+.bzold {
+    border-color: green;
 }
