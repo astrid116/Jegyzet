@@ -1,6 +1,6 @@
 *{
     border: 1px solid grey;
-    margin: 8px;
+    margin: 5px;
     padding: 5px;
 }
 p {
@@ -61,4 +61,11 @@ p {
 }
 .bzold {
     border-color: green;
+}
+table {
+    width: 600px;
+    height: 600px;
+}
+.fekete {
+    background-color: black;
 }
